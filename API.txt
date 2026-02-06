@@ -1,0 +1,2 @@
+API_KEY = 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
+MODEL = gpt-4.1-mini
